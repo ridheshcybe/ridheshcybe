@@ -77,12 +77,13 @@
 <h3>📫 How to reach me:</h3>
 
 <p align="center">
-  <a href="https://twitter.com/ridheshcybe"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/DmkMsDCkTR" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/ridheshcybe"><img width="32px" alt="Twitter"src="./twitter.png"/></a>
+  &#8287;
+  <a href="https://discord.gg/DmkMsDCkTR"><img width="32px" src="./discord.png"/></a>
+  &#8287;
+  <a href="https://instagram.com"><img width="32px" src="./instagram.png"></a>
 </p>
-----
+
 <h3 >Support:</h3>
 <a href="https://ko-fi.com/ridheshw">
  <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ridheshw" />
