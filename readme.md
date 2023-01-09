@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ridhesh w</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate backend developer from Nepal</h3>
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
