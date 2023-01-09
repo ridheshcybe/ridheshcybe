@@ -81,7 +81,7 @@
   &#8287;
   <a href="https://discord.gg/DmkMsDCkTR"><img width="32px" src="./discord.png"/></a>
   &#8287;
-  <a href="https://instagram.com"><img width="32px" src="./instagram.png"></a>
+  <a href="https://instagram.com/ridheshcybe"><img width="32px" src="./instagram.png"></a>
 </p>
 
 <h3 >Support:</h3>
