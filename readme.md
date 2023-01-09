@@ -71,14 +71,20 @@
 
   <h3>⚡ Recent GitHub Activity</h3>
 
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
 </details>
 
-<h3 align="left">Support:</h3>
+<div align="center">
+<h3>📫 How to reach me:</h3>
+
+<p align="center">
+  <a href="https://twitter.com/ridheshcybe"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/DmkMsDCkTR" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+----
+<h3 >Support:</h3>
 <a href="https://ko-fi.com/ridheshw">
- <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ridheshw" />
+ <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ridheshw" />
 </a>
+</div>
