@@ -76,7 +76,7 @@
 <div align="center">
 <h3>📫 How to reach me:</h3>
 
-<p align="center">
+<p>
   <a href="https://twitter.com/ridheshcybe"><img width="32px" alt="Twitter"src="./twitter.png"/></a>
   &#8287;
   <a href="https://discord.gg/DmkMsDCkTR"><img width="32px" src="./discord.png"/></a>
@@ -87,5 +87,6 @@
 <h3 >Support:</h3>
 <a href="https://ko-fi.com/ridheshw">
  <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ridheshw" />
-</a>
+</a></br>
+<img align="center" src="https://komarev.com/ghpvc/?username=ridheshcybe" />
 </div>
