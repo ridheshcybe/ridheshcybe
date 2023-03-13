@@ -70,8 +70,6 @@
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ridheshcybe's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=ridheshcybe&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-  <h3>⚡ Recent GitHub Activity</h3>
-
 </details>
 
 <div align="center">
