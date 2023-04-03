@@ -15,7 +15,6 @@
       <a href="https://github.com/search?q=user%3Aridheshcybe+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Aridheshcybe+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   </p>
-
   <h3>🧰 Frameworks and Libraries</h3>
 
   <p>
